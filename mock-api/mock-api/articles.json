@@ -1,0 +1,24 @@
+[
+  {
+    "id": "article-1",
+    "tenantId": "tenant-123",
+    "orgId": "org-abc",
+    "title": "Understanding Type 2 Diabetes",
+    "topic": "diabetes",
+    "audience": "adult",
+    "aiUsable": true,
+    "status": "active",
+    "body": "Type 2 diabetes is a long-term condition where your body has trouble using insulin..."
+  },
+  {
+    "id": "article-2",
+    "tenantId": "tenant-123",
+    "orgId": "org-abc",
+    "title": "Healthy Eating During Pregnancy",
+    "topic": "pregnancy",
+    "audience": "adult",
+    "aiUsable": true,
+    "status": "active",
+    "body": "Eating well during pregnancy helps your baby grow and keeps you healthy..."
+  }
+]
